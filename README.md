@@ -1,5 +1,6 @@
-#设计模式 DesignPatterns#
+# 设计模式 DesignPatterns
 > Give 23 examples for the GoF Design Patterns.
+
 ![设计模式](http://upload-images.jianshu.io/upload_images/3587463-657e122b18b468c5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 > 模式：所谓模式就是指在某种情境下针对某问题的某种解决方案。
@@ -10,12 +11,12 @@
 >
 > OO基础：抽象 封装 继承 多态
 
-##面向对象（OO, Object Oriented）##
+## 面向对象（OO, Object Oriented）
 > 面向对象的程序设计方法将数据及对数据的操作封装起来，作为一个相互依赖不可分离的整体即>
 >
 > 为对象。对同类型的对象抽象出其共性形成类。
 
-## 统一建模语言（UML, Unified Modeling Language）##
+## 统一建模语言（UML, Unified Modeling Language）
 
 > 6大类：组件图 静态图 交互图 行为图 用例图 物理图 
 >
@@ -23,7 +24,7 @@
 >
 > 6关系：泛化=实现>组合>聚合>关联>依赖
 
-## 设计原则（SOLLID, 6）##
+## 设计原则（SOLLID, 6）
 
 > 1 封装变化。将可能发生变化的代码提取出来，封装成类。
 >
@@ -47,7 +48,7 @@
 >
 > 11 接口隔离原则。最小接口。I
 
-## 设计模式（GOF, Gang Of Four, 23）##
+## 设计模式（GOF, Gang Of Four, 23）
 
 > *创建型：单例模式 工厂方法模式 抽象工厂模式 建造者模式 原型模式 5*
 >
